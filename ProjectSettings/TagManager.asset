@@ -9,6 +9,10 @@ TagManager:
   - Trap
   - CheckPoint
   - Light
+  - Coin
+  - Trader
+  - DeadZone
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -20,7 +24,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -51,4 +55,10 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 4081048833
+    locked: 0
+  - name: Cave
+    uniqueID: 3636772289
+    locked: 0
+  - name: Player
+    uniqueID: 532755763
     locked: 0
